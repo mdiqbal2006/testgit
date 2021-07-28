@@ -4,6 +4,7 @@ public class MyClass {
 
 	void add() {
 		System.out.println("hello method jkjk");
+		int x=20;
 	}
 	
 	public static void main(String[] args) {
