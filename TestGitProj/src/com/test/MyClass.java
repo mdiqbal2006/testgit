@@ -6,6 +6,7 @@ public class MyClass {
 		System.out.println("hello method jkjk");
 		int x=20;
 		int b=0;
+		int c=+b;
 	}
 	
 	public static void main(String[] args) {
