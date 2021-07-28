@@ -3,7 +3,7 @@ package com.test;
 public class MyClass {
 
 	void add() {
-		System.out.println("hello method");
+		System.out.println("hello method jkjk");
 	}
 	
 	public static void main(String[] args) {
