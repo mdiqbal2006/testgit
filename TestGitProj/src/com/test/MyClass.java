@@ -7,7 +7,7 @@ public class MyClass {
 		int x=20;
 		int b=0;
 		int c=+b;
-		System.out.println("fd");
+		System.out.println("fd kkhkjhkkjkj");
 	}
 	
 	public static void main(String[] args) {
