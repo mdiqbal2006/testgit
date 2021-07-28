@@ -7,6 +7,7 @@ public class MyClass {
 		int x=20;
 		int b=0;
 		int c=+b;
+		System.out.println("fd");
 	}
 	
 	public static void main(String[] args) {
