@@ -14,6 +14,9 @@ public class MyClass {
 		// TODO Auto-generated method stub
 		System.out.println("hello brother jhkj brother..mr khan sahab");
 		
+		MyClass ob=new MyClass();
+		ob.add();
+		
 	}
 
 }
